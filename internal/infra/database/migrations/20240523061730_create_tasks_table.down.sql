@@ -1,0 +1,1 @@
+DROP TABLE IF NOT EXISTS public.tasks CASCADE;
